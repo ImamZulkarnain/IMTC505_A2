@@ -12,5 +12,6 @@ EditorBuildSettings:
     path: Assets/_Scenes/Deathrattle.unity
     guid: ce9b7bf33ea003d40a35642e00e2d246
   m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 1ff2e207f82055f4ebbdc75004b338a5, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5fc6ed3e29451ce44b4fef5763f3654f, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: af693b2aaa5c5be45be1dce35a941fc0, type: 2}
